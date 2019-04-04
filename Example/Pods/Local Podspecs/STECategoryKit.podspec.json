@@ -1,7 +1,7 @@
 {
   "name": "STECategoryKit",
-  "version": "0.1.0",
-  "summary": "A short description of STECategoryKit.",
+  "version": "2",
+  "summary": "添加其他文件.",
   "description": "TODO: Add long description of the pod here.",
   "homepage": "https://github.com/KivinSun/STECategoryKit",
   "license": {
@@ -13,10 +13,21 @@
   },
   "source": {
     "git": "https://github.com/KivinSun/STECategoryKit.git",
-    "tag": "0.1.0"
+    "tag": "2"
   },
   "platforms": {
     "ios": "8.0"
   },
-  "source_files": "STECategoryKit/Classes/**/*"
+  "source_files": "STECategoryKit/Classes/**/*",
+  "dependencies": {
+    "AFNetworking": [
+      "~> 2.3"
+    ],
+    "MBProgressHUD": [
+
+    ],
+    "FMDB": [
+
+    ]
+  }
 }

@@ -1,0 +1,16 @@
+PODS:
+  - STECategoryKit (0.1.0)
+
+DEPENDENCIES:
+  - STECategoryKit (from `../`)
+
+EXTERNAL SOURCES:
+  STECategoryKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  STECategoryKit: 95d21db180f72b41c3aff3f1af0183fa753f1a9a
+
+PODFILE CHECKSUM: f8eb3f531d6c7ce0210a7db5d43c6ae5c433b78f
+
+COCOAPODS: 1.5.3

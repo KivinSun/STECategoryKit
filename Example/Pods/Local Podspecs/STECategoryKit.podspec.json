@@ -1,0 +1,22 @@
+{
+  "name": "STECategoryKit",
+  "version": "0.1.0",
+  "summary": "A short description of STECategoryKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/KivinSun/STECategoryKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "KivinSun": "15063244755@163.com"
+  },
+  "source": {
+    "git": "https://github.com/KivinSun/STECategoryKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "STECategoryKit/Classes/**/*"
+}

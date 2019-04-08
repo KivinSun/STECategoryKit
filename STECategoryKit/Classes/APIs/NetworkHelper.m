@@ -44,7 +44,8 @@ NSString * const GET = @"GET";
         finishBlock(responseObject,nil);
 
     } failure:^(NSURLSessionDataTask * _Nullable task, NSError * _Nonnull error) {
-        
+        finishBlock(nil,error);
+
     }];
 }
 

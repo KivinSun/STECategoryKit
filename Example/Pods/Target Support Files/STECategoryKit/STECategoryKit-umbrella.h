@@ -20,6 +20,7 @@
 #import "UIColor+Hex.h"
 #import "UILabel+Extension.h"
 #import "UIView+FFFrame.h"
+#import "CategoryKitPublic.h"
 #import "FFConst.h"
 #import "FFCellProtocol.h"
 #import "FFMainView.h"

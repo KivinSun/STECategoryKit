@@ -42,4 +42,7 @@ TODO: Add long description of the pod here.
   
   s.dependency 'MBProgressHUD'
   s.dependency 'FMDB'
+  s.dependency 'ReactiveCocoa'
+  s.dependency 'Masonry'
+  s.dependency 'YYWebImage'
 end

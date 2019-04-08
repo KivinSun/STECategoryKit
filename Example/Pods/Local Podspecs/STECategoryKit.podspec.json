@@ -28,6 +28,15 @@
     ],
     "FMDB": [
 
+    ],
+    "ReactiveCocoa": [
+      "~> 2.5"
+    ],
+    "Masonry": [
+
+    ],
+    "YYWebImage": [
+
     ]
   }
 }

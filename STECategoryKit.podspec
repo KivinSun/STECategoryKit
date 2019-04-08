@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'STECategoryKit'
-  s.version          = '4'
+  s.version          = '5'
   s.summary          = '添加其他文件.'
 
 # This description is used to generate tags and improve search results.
